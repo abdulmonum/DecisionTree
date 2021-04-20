@@ -6,4 +6,4 @@ string attribute values. And the encodings.txt contains information about which 
 to which string label 
 
 Run file using the following command
-python3 makeDecisionTree.py <datasetName>.txt <encodings>.txt
+python3 makeDecisionTree.py datasetName.txt encodings.txt
